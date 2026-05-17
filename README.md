@@ -1,2 +1,3 @@
-# Forlearn2
-Forlearn2
+Switches:
+{203, off}
+{350, on}
